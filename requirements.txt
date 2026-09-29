@@ -1,0 +1,6 @@
+sounddevice
+numpy
+SpeechRecognition
+edge-tts
+pygame
+pywin32
